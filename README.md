@@ -1,2 +1,6 @@
 # study-design-pattern-strategy
-Estudos do design pattern: Strategy.
+### Objetivo
+- Estudos do design pattern: Strategy.
+### Resumo do projeto
+- Adicionar um percentual ao salário de cada funcionário dependendo de sua função.
+
